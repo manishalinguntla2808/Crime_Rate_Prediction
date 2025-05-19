@@ -98,9 +98,9 @@ Correlation between Crime Rate, Income, and School Ratings
 
 |School Type|Average Safety Score|
 |-----------|--------------------|
-|----ES-----|------49.520384-----|
-|----HS-----|------49.623529-----|
-|----MS-----|------48.000000-----|
+|ES|49.520384|
+|HS|49.623529|
+|MS|48.000000|
 
 ### Problem 7: List 5 community areas with highest % of households below poverty line
 

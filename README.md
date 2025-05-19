@@ -23,16 +23,16 @@ This project aims to predict crime rates in various community areas based on his
 
 ## 🧾 Datasets Used
 ### ChicagoCrimeData.csv
-  **Source:** Chicago Data Portal
-  **Details:** Includes type of crime, location, date, and community area.
+  * Source: Chicago Data Portal
+  * Details: Includes type of crime, location, date, and community area.
 
 ### CensusData.csv
-  **Source:** U.S. Census Bureau
-  **Details:** Population, income, education level per community area.
+  * Source: U.S. Census Bureau
+  * Details: Population, income, education level per community area.
 
 ### ChicagoPublicSchools.csv
-  **Source:** Chicago Open Data
-  **Details:** Information on school locations, ratings, and neighborhood areas.
+  * Source: Chicago Open Data
+  * Details: Information on school locations, ratings, and neighborhood areas.
 
 📊 Tableau Dashboard
 Interactive dashboards are created using Tableau to show:

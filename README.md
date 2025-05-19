@@ -51,11 +51,18 @@ Correlation between Crime Rate, Income, and School Ratings
 
 #### Problem 1: Find the total number of crimes recorded in the CRIME table
 🔍 Finding: The total number of crimes recorded was 533
+
 #### Problem 2: List community area names and numbers with per capita income less than 11,000
 🔍 Finding: There were 4 community areas with a per capita income below $11,000. These include:
+
 |COMMUNITY_AREA_NUMBER|COMMUNITY_AREA_NAME | COMMUNITY_AREA_NUMBER | PER_CAPITA_INCOME|
 |---------------------|--------------------|-----------------------|------------------|
 |25|West Garfield Park|26.0|10934|
-|29|South Lawndale||30.0|10402|
+|29|South Lawndale|30.0|10402|
 |36|Fuller Park|37.0|10432|
 |53|Riverdale|54.0|8201|
+
+Problem 3: List all case numbers for crimes involving minors (excluding children)
+🔍 Finding: A total of 2 case numbers were found involving minors. These included crimes like Liquor Law Violation where the victim was identified as a minor.
+
+['HL266884' 'HK238408']

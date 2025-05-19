@@ -78,3 +78,48 @@ Correlation between Crime Rate, Income, and School Ratings
 |Case Number|Primary Type|Description|
 |-----------|------------|-----------|
 |HN144152|KIDNAPPING|CHILD ABDUCTION/STRANGER	|
+
+### Problem 5: List the kinds of crimes that are recorded at schools (no repetitions)
+
+🔍 Finding: Crimes at schools included:
+
+* Assault
+* Battery
+* CRIMINAL DAMAGE
+* CRIMINAL TRESPASS
+* Narcotics
+* PUBLIC PEACE VIOLATION
+
+(Total: 7 unique types, based on location descriptions containing "SCHOOL")
+
+### Problem 6: List the type of schools along with the average safety score for each type
+
+🔍 Finding:
+
+|School Type|Average Safety Score|
+|----ES-----|------49.520384-----|
+|----HS-----|------49.623529-----|
+|----MS-----|------48.000000-----|
+
+### Problem 7: List 5 community areas with highest % of households below poverty line
+
+🔍 Finding: Top 5 poverty-stricken areas:
+
+|COMMUNITY_AREA_NAME|COMMUNITY_AREA_NUMBER|PERCENT_HOUSEHOLDS_BELOW_POVERTY|
+|Riverdale|54.0|56.5|
+|Fuller Park|37.0|51.2|
+|Englewood|68.0|46.6| 
+|North Lawndale|29.0|43.1|
+|East Garfield Park|27.0|42.4|
+
+### Problem 8: Which community area is most crime-prone? (Display number only)
+
+🔍 Finding: Community area number 25 (Austin) had the highest number of reported crimes.
+
+### Problem 9: Name of the community area with highest hardship index (via sub-query)
+
+🔍 Finding: The community area with the highest hardship index is Riverdale (Area Number: 53) with a hardship index of 98.0.
+
+### Problem 10: Community area name with the most number of crimes (via sub-query)
+
+🔍 Finding: Austin is the community area with the most number of crimes in the dataset.

@@ -47,12 +47,15 @@ Crime Trend Over Time
 Correlation between Crime Rate, Income, and School Ratings
 
 ## 🔎 Key Questions & Findings
+
   This project focused on answering the following questions using data analysis and visualizations. The insights guided the feature engineering and model development phases.
 
-#### Problem 1: Find the total number of crimes recorded in the CRIME table
+### Problem 1: Find the total number of crimes recorded in the CRIME table
+
 🔍 Finding: The total number of crimes recorded was 533
 
-#### Problem 2: List community area names and numbers with per capita income less than 11,000
+### Problem 2: List community area names and numbers with per capita income less than 11,000
+
 🔍 Finding: There were 4 community areas with a per capita income below $11,000. These include:
 
 |COMMUNITY_AREA_NUMBER|COMMUNITY_AREA_NAME | COMMUNITY_AREA_NUMBER | PER_CAPITA_INCOME|
@@ -62,7 +65,16 @@ Correlation between Crime Rate, Income, and School Ratings
 |36|Fuller Park|37.0|10432|
 |53|Riverdale|54.0|8201|
 
-Problem 3: List all case numbers for crimes involving minors (excluding children)
+### Problem 3: List all case numbers for crimes involving minors (excluding children)
+
 🔍 Finding: A total of 2 case numbers were found involving minors. These included crimes like Liquor Law Violation where the victim was identified as a minor.
 
 ['HL266884' 'HK238408']
+
+### Problem 4: List all kidnapping crimes involving a child
+
+🔍 Finding: Found 1 kidnapping crimes explicitly involving children. These were identified using keyword matches 'KIDNAPPING' as primary type and like "child" references in descriptions.
+
+|Case Number|Primary Type|Description|
+|-----------|------------|-----------|
+|HN144152|KIDNAPPING|CHILD ABDUCTION/STRANGER	|

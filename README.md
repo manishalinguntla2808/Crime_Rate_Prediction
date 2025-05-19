@@ -34,7 +34,8 @@ This project aims to predict crime rates in various community areas based on his
   * Source: Chicago Open Data
   * Details: Information on school locations, ratings, and neighborhood areas.
 
-📊 Tableau Dashboard
+
+## 📊 Tableau Dashboard
 Interactive dashboards are created using Tableau to show:
 
 Crimes by Community Area
@@ -45,3 +46,16 @@ Crime Trend Over Time
 
 Correlation between Crime Rate, Income, and School Ratings
 
+## 🔎 Key Questions & Findings
+  This project focused on answering the following questions using data analysis and visualizations. The insights guided the feature engineering and model development phases.
+
+#### Problem 1: Find the total number of crimes recorded in the CRIME table
+🔍 Finding: The total number of crimes recorded was 533
+#### Problem 2: List community area names and numbers with per capita income less than 11,000
+🔍 Finding: There were 4 community areas with a per capita income below $11,000. These include:
+|COMMUNITY_AREA_NUMBER|COMMUNITY_AREA_NAME | COMMUNITY_AREA_NUMBER | PER_CAPITA_INCOME|
+|---------------------|--------------------|-----------------------|------------------|
+|25|West Garfield Park|26.0|10934|
+|29|South Lawndale||30.0|10402|
+|36|Fuller Park|37.0|10432|
+|53|Riverdale|54.0|8201|

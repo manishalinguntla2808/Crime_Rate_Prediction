@@ -97,6 +97,7 @@ Correlation between Crime Rate, Income, and School Ratings
 🔍 Finding:
 
 |School Type|Average Safety Score|
+|-----------|--------------------|
 |----ES-----|------49.520384-----|
 |----HS-----|------49.623529-----|
 |----MS-----|------48.000000-----|
@@ -106,6 +107,7 @@ Correlation between Crime Rate, Income, and School Ratings
 🔍 Finding: Top 5 poverty-stricken areas:
 
 |COMMUNITY_AREA_NAME|COMMUNITY_AREA_NUMBER|PERCENT_HOUSEHOLDS_BELOW_POVERTY|
+|-------------------|---------------------|--------------------------------|
 |Riverdale|54.0|56.5|
 |Fuller Park|37.0|51.2|
 |Englewood|68.0|46.6| 

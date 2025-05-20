@@ -50,10 +50,17 @@ This project aims to **predict crime rates in Chicago's community areas** based 
 
 Interactive dashboards built in Tableau include:
 
-- **Crimes by Community Area**
-- **Top 5 Crime Types**
-- **Crime Trends Over Time**
-- **Correlation between Crime Rate, Income, and School Ratings**
+- [Chicago Crime Rate Count](https://public.tableau.com/app/profile/manisha.linguntla/viz/ChicagoCrimeRateCount/CrimeCount)
+- [Community area with income < 11000](https://public.tableau.com/app/profile/manisha.linguntla/viz/Communityareawithincome11000/Communityareawithincome11000)
+- [Crimes involving Minors](https://public.tableau.com/app/profile/manisha.linguntla/viz/Crimesinvolvngminors/CrimesinvolvingMinors)
+- [Kidnapping crimes involving child](https://public.tableau.com/app/profile/manisha.linguntla/viz/Kidnappingcrimesinvolvingchild/Kidnappingcrimesinvolvingchild)
+- [Crimes reported at School](https://public.tableau.com/app/profile/manisha.linguntla/viz/Crimesreportedatschool/Crimesreportedatschool)
+- [Average Safety Score by school type](https://public.tableau.com/app/profile/manisha.linguntla/viz/Averagesafetyscorebyschooltype/Averagesafetyscorebyschooltype)
+- [Top 5 % households below poverty](https://public.tableau.com/app/profile/manisha.linguntla/viz/Top5householdsbelowpoverty/Top5householdsbelowpoverty)
+- [Community Area Number with highest crime rate](https://public.tableau.com/app/profile/manisha.linguntla/viz/Areanumberwithhighestcrimerate/Areanumberwithhighestcrimerate)
+- [Community Area with highest Harship index](https://public.tableau.com/app/profile/manisha.linguntla/viz/Areawithhighestharshipindex/Areawithhighesthardshipindex)
+- [Community Area with highest crime rate](https://public.tableau.com/app/profile/manisha.linguntla/viz/Areawithhighestcrimerate/Areawithhighestcrimerate)
+- [Chicago Crime Rate Dashboard](https://public.tableau.com/app/profile/manisha.linguntla/viz/ChicagoCrimeratedashboard/ChicagoCrimeratedashboard)
 - **[Tableau Story Board](https://public.tableau.com/app/profile/manisha.linguntla/viz/ChicagoCrimeratestoryboard/ChicagoCrimerateStoryboard)
 ---
 

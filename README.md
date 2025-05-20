@@ -54,7 +54,7 @@ Interactive dashboards built in Tableau include:
 - **Top 5 Crime Types**
 - **Crime Trends Over Time**
 - **Correlation between Crime Rate, Income, and School Ratings**
-
+- **[Tableau Story Board](https://public.tableau.com/app/profile/manisha.linguntla/viz/ChicagoCrimeratestoryboard/ChicagoCrimerateStoryboard)
 ---
 
 ## 🔍 Key Questions & Findings
